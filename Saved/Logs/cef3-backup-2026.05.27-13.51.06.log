@@ -1,0 +1,7 @@
+[3196:3760:0527/224527.086:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[3196:3760:0527/224527.227:ERROR:os_crypt_win.cc(100)] Failed to decrypt: 指定された状態で使用するには無効なキーです。 (0x8009000B)
+[3196:30852:0527/224527.352:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[3196:3760:0527/224527.462:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3196:3760:0527/224534.294:ERROR:device_event_log_impl.cc(196)] [22:45:34.237] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[1124:9520:0527/224535.114:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-05B37691EEACA9FA72773A1D958225F2 will be ignored
+[3196:3760:0527/225106.738:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
