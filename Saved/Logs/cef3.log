@@ -1,6 +1,12 @@
-[27392:35988:0602/225047.754:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[27392:34936:0602/225048.006:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[27392:35988:0602/225048.105:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[27392:35988:0602/225100.755:ERROR:device_event_log_impl.cc(196)] [22:51:00.708] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[10884:34652:0602/225101.081:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A9C1C171A438CB29B7198E8BC267E748 will be ignored
-[27392:35988:0602/225116.200:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[47404:50860:0604/130534.605:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[47404:43316:0604/130534.847:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[47404:50860:0604/130534.949:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2368:29336:0604/130543.569:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-12E2F885066976B46DD99B93BA584B3C will be ignored
+[47404:50860:0604/130543.891:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-12E2F885066976B46DD99B93BA584B3C (main) will be ignored
+[47404:50860:0604/130544.547:ERROR:device_event_log_impl.cc(196)] [13:05:44.226] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[47404:50860:0604/131205.569:ERROR:device_event_log_impl.cc(196)] [13:12:05.491] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[47404:50860:0604/131205.631:ERROR:device_event_log_impl.cc(196)] [13:12:05.618] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: データはこれ以上ありません。 (0x103)
+[47404:50860:0604/131205.645:ERROR:device_event_log_impl.cc(196)] [13:12:05.634] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: データはこれ以上ありません。 (0x103)
+[47404:50860:0604/131211.257:ERROR:device_event_log_impl.cc(196)] [13:12:11.256] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[47404:50860:0604/132510.356:ERROR:device_event_log_impl.cc(196)] [13:25:10.355] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[47404:50860:0604/133828.421:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
