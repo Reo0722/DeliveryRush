@@ -6,7 +6,19 @@
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
+   }, {
+      "calculation_time": "13424880755433081",
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
    } ],
+<<<<<<< HEAD
    "hex_encoded_hmac_key": "DE009D7E8D19900D389042E204510DE759B26957E8DBDFA2D11016898FAE8EDB",
    "next_scheduled_calculation_time": "13425486660801091"
+=======
+   "hex_encoded_hmac_key": "DD122DD93EEF0620E50DDEEEE5A6D791D11578C24BF09DB661947BF5EE47D0E5",
+   "next_scheduled_calculation_time": "13425485555433624"
+>>>>>>> mashimo
 }
