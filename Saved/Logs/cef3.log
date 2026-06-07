@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-[15296:36124:0607/214546.786:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15296:25180:0607/214547.030:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15296:36124:0607/214547.131:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15296:36124:0607/214555.015:ERROR:device_event_log_impl.cc(196)] [21:45:54.355] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[35872:7944:0607/214555.026:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-666646A57000057E499E6E7EF2D2C7AA will be ignored
-[15296:36124:0607/222416.104:ERROR:device_event_log_impl.cc(196)] [22:24:15.846] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[15296:36124:0607/230301.628:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[20652:26048:0608/000745.172:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20652:35320:0608/000745.195:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[20652:26048:0608/000745.201:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[38892:38544:0608/000748.009:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-27319CAFEDD54A690B7D94E3F6E9F025 will be ignored
-[20652:26048:0608/000751.126:ERROR:device_event_log_impl.cc(196)] [00:07:51.118] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[20652:26048:0608/000902.603:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> mashimo
+[24396:24476:0608/002622.307:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24396:8584:0608/002622.380:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24396:24476:0608/002622.385:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[34676:40500:0608/002625.971:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-042AC595626565FA23A6F84025CCDB3B will be ignored
+[24396:24476:0608/002629.730:ERROR:device_event_log_impl.cc(196)] [00:26:29.723] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[24396:24476:0608/003216.910:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
