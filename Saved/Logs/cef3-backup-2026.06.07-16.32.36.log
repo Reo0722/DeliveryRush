@@ -1,0 +1,13 @@
+[40360:21268:0608/004328.150:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[40360:36896:0608/004328.304:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[40360:21268:0608/004328.373:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40752:37816:0608/004332.352:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E787427D0386008B77861CED15F68B31 will be ignored
+[11412:2564:0608/004332.358:ERROR:backend_impl.cc(989)] Critical error found -8
+[11412:2564:0608/004332.358:WARNING:storage_block-inl.h(138)] Failed data load.
+[11412:2564:0608/004332.358:ERROR:entry_impl.cc(1029)] No file for c103001a
+[11412:2564:0608/004332.358:WARNING:storage_block-inl.h(138)] Failed data load.
+[40360:21268:0608/004337.028:ERROR:device_event_log_impl.cc(196)] [00:43:36.687] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[40360:21268:0608/010149.369:ERROR:device_event_log_impl.cc(196)] [01:01:49.194] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[40360:21268:0608/010159.713:ERROR:device_event_log_impl.cc(196)] [01:01:59.396] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[40360:21268:0608/011820.362:ERROR:device_event_log_impl.cc(196)] [01:18:20.198] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[40360:21268:0608/013236.196:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
