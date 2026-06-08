@@ -1,0 +1,20 @@
+[25836:19240:0608/122959.581:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25836:7436:0608/122959.914:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25836:19240:0608/122959.979:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25836:12460:0608/123004.910:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25836:12460:0608/123004.914:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25836:12460:0608/123004.917:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25836:12460:0608/123004.919:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25836:12460:0608/123005.614:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25836:12460:0608/123005.620:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21712:448:0608/123007.003:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FA483CAB751B9051213DBE54AA5D9FD4 will be ignored
+[25836:19240:0608/123007.646:WARNING:frame_host_impl.cc(623)] virtual CefFrameHostImpl::SendProcessMessage sent to detached frame 5-FA483CAB751B9051213DBE54AA5D9FD4 (main) will be ignored
+[2732:26784:0608/124403.864:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25836:12460:0608/124403.963:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[2732:26784:0608/125117.367:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25836:7436:0608/125117.499:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25836:19240:0608/125119.065:ERROR:device_event_log_impl.cc(196)] [12:51:18.801] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[25836:7436:0608/125119.751:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25836:12460:0608/125120.291:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25836:19240:0608/130523.920:ERROR:device_event_log_impl.cc(196)] [13:05:23.671] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[25836:19240:0608/130616.257:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

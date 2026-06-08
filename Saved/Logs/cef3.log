@@ -1,6 +1,14 @@
-[40644:30840:0608/013604.938:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[40644:38760:0608/013604.981:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[40644:30840:0608/013605.001:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[42200:5628:0608/013608.825:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-306F6C79D2D171BC98C6346AF221B6DD will be ignored
-[40644:30840:0608/013611.820:ERROR:device_event_log_impl.cc(196)] [01:36:11.491] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
-[40644:30840:0608/014622.703:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27176:22376:0608/130658.674:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27176:20780:0608/130659.070:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27176:22376:0608/130659.137:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27176:14132:0608/130707.111:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27176:14132:0608/130707.121:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27176:14132:0608/130707.129:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27176:14132:0608/130707.138:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27176:20780:0608/130707.989:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[27176:20780:0608/130707.995:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26888:9328:0608/130708.980:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1FA973270920BF368B99F3B06C53FFF8 will be ignored
+[27176:20780:0608/133255.846:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25804:14136:0608/133255.882:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27176:22376:0608/133257.151:ERROR:device_event_log_impl.cc(196)] [13:32:56.673] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+[27176:22376:0608/133342.354:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
