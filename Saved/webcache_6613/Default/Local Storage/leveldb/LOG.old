@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-2026/07/01-11:01:57.276 6280 Reusing MANIFEST C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/01-11:01:57.280 6280 Recovering log #3
-2026/07/01-11:01:57.285 6280 Reusing old log C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-=======
-2026/06/25-11:20:00.365 9004 Reusing MANIFEST C:\Users\m915j\OneDrive\デスクトップ\経済学\2026年度前期\REO\DeliveryRush\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/25-11:20:00.378 9004 Recovering log #3
-2026/06/25-11:20:00.403 9004 Reusing old log C:\Users\m915j\OneDrive\デスクトップ\経済学\2026年度前期\REO\DeliveryRush\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
->>>>>>> Mj
+2026/07/01-14:14:13.220 5774 Creating DB C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\DeliveryRush\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/07/01-14:14:13.290 5774 Reusing MANIFEST C:\Users\reo72\OneDrive\ドキュメント\GitHub\DeliveryRush\DeliveryRush\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
